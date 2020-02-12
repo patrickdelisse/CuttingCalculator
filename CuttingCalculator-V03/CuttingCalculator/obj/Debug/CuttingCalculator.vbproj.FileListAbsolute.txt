@@ -1,0 +1,75 @@
+C:\Users\PDL\OneDrive\Visual studio\CuttingCalculator\WindowsApplication1\bin\Debug\CuttingCalculator.exe.config
+C:\Users\PDL\OneDrive\Visual studio\CuttingCalculator\WindowsApplication1\bin\Debug\kctable.png
+C:\Users\PDL\OneDrive\Visual studio\CuttingCalculator\WindowsApplication1\bin\Debug\CuttingCalculator.exe
+C:\Users\PDL\OneDrive\Visual studio\CuttingCalculator\WindowsApplication1\bin\Debug\CuttingCalculator.pdb
+C:\Users\PDL\OneDrive\Visual studio\CuttingCalculator\WindowsApplication1\bin\Debug\CuttingCalculator.xml
+C:\Users\PDL\OneDrive\Visual studio\CuttingCalculator\WindowsApplication1\obj\Debug\CuttingCalculator.Form1.resources
+C:\Users\PDL\OneDrive\Visual studio\CuttingCalculator\WindowsApplication1\obj\Debug\CuttingCalculator.Form2.resources
+C:\Users\PDL\OneDrive\Visual studio\CuttingCalculator\WindowsApplication1\obj\Debug\CuttingCalculator.Resources.resources
+C:\Users\PDL\OneDrive\Visual studio\CuttingCalculator\WindowsApplication1\obj\Debug\CuttingCalculator.vbproj.GenerateResource.Cache
+C:\Users\PDL\OneDrive\Visual studio\CuttingCalculator\WindowsApplication1\obj\Debug\CuttingCalculator.exe
+C:\Users\PDL\OneDrive\Visual studio\CuttingCalculator\WindowsApplication1\obj\Debug\CuttingCalculator.xml
+C:\Users\PDL\OneDrive\Visual studio\CuttingCalculator\WindowsApplication1\obj\Debug\CuttingCalculator.pdb
+C:\Users\patri_000\OneDrive\Visual studio\CuttingCalculator\WindowsApplication1\bin\Debug\CuttingCalculator.exe.config
+C:\Users\patri_000\OneDrive\Visual studio\CuttingCalculator\WindowsApplication1\obj\Debug\CuttingCalculator.exe
+C:\Users\patri_000\OneDrive\Visual studio\CuttingCalculator\WindowsApplication1\obj\Debug\CuttingCalculator.xml
+C:\Users\patri_000\OneDrive\Visual studio\CuttingCalculator\WindowsApplication1\obj\Debug\CuttingCalculator.pdb
+C:\Users\patri_000\OneDrive\Visual studio\CuttingCalculator\WindowsApplication1\bin\Debug\kctable.png
+C:\Users\patri_000\OneDrive\Visual studio\CuttingCalculator\WindowsApplication1\bin\Debug\CuttingCalculator.exe
+C:\Users\patri_000\OneDrive\Visual studio\CuttingCalculator\WindowsApplication1\bin\Debug\CuttingCalculator.pdb
+C:\Users\patri_000\OneDrive\Visual studio\CuttingCalculator\WindowsApplication1\bin\Debug\CuttingCalculator.xml
+C:\Users\patri_000\OneDrive\Visual studio\CuttingCalculator\WindowsApplication1\obj\Debug\CuttingCalculator.vbprojResolveAssemblyReference.cache
+C:\Users\patri_000\OneDrive\Visual studio\CuttingCalculator\WindowsApplication1\obj\Debug\CuttingCalculator.Form1.resources
+C:\Users\patri_000\OneDrive\Visual studio\CuttingCalculator\WindowsApplication1\obj\Debug\CuttingCalculator.Resources.resources
+C:\Users\patri_000\OneDrive\Visual studio\CuttingCalculator\WindowsApplication1\obj\Debug\CuttingCalculator.vbproj.GenerateResource.Cache
+C:\Users\patri_000\OneDrive\Visual studio\CuttingCalculator\CuttingCalculator-V02\bin\Debug\CuttingCalculator.exe.config
+C:\Users\patri_000\OneDrive\Visual studio\CuttingCalculator\CuttingCalculator-V02\obj\Debug\CuttingCalculator.exe
+C:\Users\patri_000\OneDrive\Visual studio\CuttingCalculator\CuttingCalculator-V02\obj\Debug\CuttingCalculator.xml
+C:\Users\patri_000\OneDrive\Visual studio\CuttingCalculator\CuttingCalculator-V02\obj\Debug\CuttingCalculator.pdb
+C:\Users\patri_000\OneDrive\Visual studio\CuttingCalculator\CuttingCalculator-V02\bin\Debug\kctable.png
+C:\Users\patri_000\OneDrive\Visual studio\CuttingCalculator\CuttingCalculator-V02\bin\Debug\CuttingCalculator.exe
+C:\Users\patri_000\OneDrive\Visual studio\CuttingCalculator\CuttingCalculator-V02\bin\Debug\CuttingCalculator.pdb
+C:\Users\patri_000\OneDrive\Visual studio\CuttingCalculator\CuttingCalculator-V02\bin\Debug\CuttingCalculator.xml
+C:\Users\patri_000\OneDrive\Visual studio\CuttingCalculator\CuttingCalculator-V02\obj\Debug\CuttingCalculator.vbprojResolveAssemblyReference.cache
+C:\Users\patri_000\OneDrive\Visual studio\CuttingCalculator\CuttingCalculator-V02\obj\Debug\CuttingCalculator.Form1.resources
+C:\Users\patri_000\OneDrive\Visual studio\CuttingCalculator\CuttingCalculator-V02\obj\Debug\CuttingCalculator.Resources.resources
+C:\Users\patri_000\OneDrive\Visual studio\CuttingCalculator\CuttingCalculator-V02\obj\Debug\CuttingCalculator.vbproj.GenerateResource.Cache
+K:\Systems\Visual Basic Applications\Visual Basic .NET\CuttingCalculator\CuttingCalculator-V02\bin\Debug\CuttingCalculator.exe.config
+K:\Systems\Visual Basic Applications\Visual Basic .NET\CuttingCalculator\CuttingCalculator-V02\obj\Debug\CuttingCalculator.exe
+K:\Systems\Visual Basic Applications\Visual Basic .NET\CuttingCalculator\CuttingCalculator-V02\obj\Debug\CuttingCalculator.xml
+K:\Systems\Visual Basic Applications\Visual Basic .NET\CuttingCalculator\CuttingCalculator-V02\obj\Debug\CuttingCalculator.pdb
+K:\Systems\Visual Basic Applications\Visual Basic .NET\CuttingCalculator\CuttingCalculator-V02\bin\Debug\kctable.png
+K:\Systems\Visual Basic Applications\Visual Basic .NET\CuttingCalculator\CuttingCalculator-V02\bin\Debug\CuttingCalculator.exe
+K:\Systems\Visual Basic Applications\Visual Basic .NET\CuttingCalculator\CuttingCalculator-V02\bin\Debug\CuttingCalculator.pdb
+K:\Systems\Visual Basic Applications\Visual Basic .NET\CuttingCalculator\CuttingCalculator-V02\bin\Debug\CuttingCalculator.xml
+K:\Systems\Visual Basic Applications\Visual Basic .NET\CuttingCalculator\CuttingCalculator-V02\obj\Debug\CuttingCalculator.vbprojResolveAssemblyReference.cache
+K:\Systems\Visual Basic Applications\Visual Basic .NET\CuttingCalculator\CuttingCalculator-V02\obj\Debug\CuttingCalculator.Form1.resources
+K:\Systems\Visual Basic Applications\Visual Basic .NET\CuttingCalculator\CuttingCalculator-V02\obj\Debug\CuttingCalculator.Resources.resources
+K:\Systems\Visual Basic Applications\Visual Basic .NET\CuttingCalculator\CuttingCalculator-V02\obj\Debug\CuttingCalculator.vbproj.GenerateResource.Cache
+K:\Systems\Visual Basic Applications\Visual Basic .NET\CuttingCalculator\CuttingCalculator-V02\obj\Debug\CuttingCalculator.vbproj.CoreCompileInputs.cache
+K:\Systems\Visual Studio Applications\Visual Basic .NET\CuttingCalculator\CuttingCalculator-V02\CuttingCalculator\bin\Debug\kctable.png
+K:\Systems\Visual Studio Applications\Visual Basic .NET\CuttingCalculator\CuttingCalculator-V02\CuttingCalculator\bin\Debug\CuttingCalculator.exe.config
+K:\Systems\Visual Studio Applications\Visual Basic .NET\CuttingCalculator\CuttingCalculator-V02\CuttingCalculator\bin\Debug\CuttingCalculator.exe
+K:\Systems\Visual Studio Applications\Visual Basic .NET\CuttingCalculator\CuttingCalculator-V02\CuttingCalculator\bin\Debug\CuttingCalculator.pdb
+K:\Systems\Visual Studio Applications\Visual Basic .NET\CuttingCalculator\CuttingCalculator-V02\CuttingCalculator\bin\Debug\CuttingCalculator.xml
+K:\Systems\Visual Studio Applications\Visual Basic .NET\CuttingCalculator\CuttingCalculator-V02\CuttingCalculator\obj\Debug\CuttingCalculator.vbprojResolveAssemblyReference.cache
+K:\Systems\Visual Studio Applications\Visual Basic .NET\CuttingCalculator\CuttingCalculator-V02\CuttingCalculator\obj\Debug\CuttingCalculator.Form1.resources
+K:\Systems\Visual Studio Applications\Visual Basic .NET\CuttingCalculator\CuttingCalculator-V02\CuttingCalculator\obj\Debug\CuttingCalculator.Resources.resources
+K:\Systems\Visual Studio Applications\Visual Basic .NET\CuttingCalculator\CuttingCalculator-V02\CuttingCalculator\obj\Debug\CuttingCalculator.vbproj.GenerateResource.Cache
+K:\Systems\Visual Studio Applications\Visual Basic .NET\CuttingCalculator\CuttingCalculator-V02\CuttingCalculator\obj\Debug\CuttingCalculator.vbproj.CoreCompileInputs.cache
+K:\Systems\Visual Studio Applications\Visual Basic .NET\CuttingCalculator\CuttingCalculator-V02\CuttingCalculator\obj\Debug\CuttingCalculator.exe
+K:\Systems\Visual Studio Applications\Visual Basic .NET\CuttingCalculator\CuttingCalculator-V02\CuttingCalculator\obj\Debug\CuttingCalculator.xml
+K:\Systems\Visual Studio Applications\Visual Basic .NET\CuttingCalculator\CuttingCalculator-V02\CuttingCalculator\obj\Debug\CuttingCalculator.pdb
+K:\Systems\Apps\CuttingCalculator\kctable.png
+K:\Systems\Apps\CuttingCalculator\CuttingCalculator.exe.config
+K:\Systems\Apps\CuttingCalculator\CuttingCalculator.exe
+K:\Systems\Apps\CuttingCalculator\CuttingCalculator.pdb
+K:\Systems\Apps\CuttingCalculator\CuttingCalculator.xml
+K:\Systems\Visual Studio Applications\Visual Basic .NET\CuttingCalculator\CuttingCalculator-V03\CuttingCalculator\obj\Debug\CuttingCalculator.vbprojResolveAssemblyReference.cache
+K:\Systems\Visual Studio Applications\Visual Basic .NET\CuttingCalculator\CuttingCalculator-V03\CuttingCalculator\obj\Debug\CuttingCalculator.Form1.resources
+K:\Systems\Visual Studio Applications\Visual Basic .NET\CuttingCalculator\CuttingCalculator-V03\CuttingCalculator\obj\Debug\CuttingCalculator.Resources.resources
+K:\Systems\Visual Studio Applications\Visual Basic .NET\CuttingCalculator\CuttingCalculator-V03\CuttingCalculator\obj\Debug\CuttingCalculator.vbproj.GenerateResource.Cache
+K:\Systems\Visual Studio Applications\Visual Basic .NET\CuttingCalculator\CuttingCalculator-V03\CuttingCalculator\obj\Debug\CuttingCalculator.vbproj.CoreCompileInputs.cache
+K:\Systems\Visual Studio Applications\Visual Basic .NET\CuttingCalculator\CuttingCalculator-V03\CuttingCalculator\obj\Debug\CuttingCalculator.exe
+K:\Systems\Visual Studio Applications\Visual Basic .NET\CuttingCalculator\CuttingCalculator-V03\CuttingCalculator\obj\Debug\CuttingCalculator.xml
+K:\Systems\Visual Studio Applications\Visual Basic .NET\CuttingCalculator\CuttingCalculator-V03\CuttingCalculator\obj\Debug\CuttingCalculator.pdb
