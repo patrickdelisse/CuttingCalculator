@@ -136,7 +136,7 @@ Public Class Form1
         If Ae.Text = "" Then snedebreedte = snedebreedtem
         If Aem.Text = "" Then snedebreedte = snedebreedtep
         snedebreedteprocent = snedebreedte / diameter
-        If snedebreedteprocent = 0 Then snedebreedteprocent = 1 'tbv niet delen door 0
+                            If snedebreedteprocent = 0 Then snedebreedteprocent = 1 'tbv niet delen door 0 PDE 2020-02-15
 
 
         If N2V Then
